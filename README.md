@@ -6,11 +6,11 @@ Send Email activity for [mogy](https://github.com/neyric/mogy).
 
 In your mogy project, install the dependency using npm :
 
-$ npm install mogy-email --save
+    $ npm install mogy-email --save
 
 To register the `email` activity to Amazon Simple Workflow :
 
-$ mogy register
+    $ mogy register
 
 ## Config
 
